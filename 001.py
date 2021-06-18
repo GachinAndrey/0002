@@ -8,7 +8,6 @@
 деления на ноль, если он ввел 0 в качестве делителя.
 """
 
-
 while True:
     try:
         number1, operation, number2 = [
